@@ -6,7 +6,9 @@ CodeBuild called Reports.
 
 Please refer to the following blog post for instructions: https://aws.amazon.com/blogs/devops/automating-your-api-testing-with-aws-codebuild-aws-codepipeline-and-postman/
 
-https://github.com/sureshparimi/aws-codepipeline-codebuild-with-postman/blob/master/petstore-api-pipeline
+
+
+![Alt text](https://github.com/sureshparimi/aws-codepipeline-codebuild-with-postman/blob/master/petstore-api-pipeline "AWS Codepipeline for API tests - Postman/Newman")
 
 ## License
 
